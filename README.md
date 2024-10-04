@@ -1,5 +1,7 @@
 # repo-one
 
+Hecho por Haider Carreño - 192350
+
 1. Ejercicio FizzBuzz
 El programa recorre los números del 1 al 100 con un ciclo for.
 Se utiliza el operador módulo (%) para comprobar si un número es múltiplo de 3, 5 o ambos:
